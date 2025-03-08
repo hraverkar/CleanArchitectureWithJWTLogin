@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "hr.makemystamp.com.migrations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

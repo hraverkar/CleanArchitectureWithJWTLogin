@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.makemystamp.com.api", "hr.makemystamp.com.api\hr.makemystamp.com.api.csproj", "{5BA9C787-A6C0-43D4-9739-B1FAB16D95F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.makemystamp.com.application", "hr.makemystamp.com.application\hr.makemystamp.com.application.csproj", "{38A7D1AB-7CEC-45EC-8909-8EE741822A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.makemystamp.com.core", "hr.makemystamp.com.core\hr.makemystamp.com.core.csproj", "{0564B29B-C398-4BC1-97B0-B797EC704D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.makemystamp.com.infrastructure", "hr.makemystamp.com.infrastructure\hr.makemystamp.com.infrastructure.csproj", "{1278C224-2A50-4470-8323-6A50D3FDFB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hr.makemystamp.com.migrations", "hr.makemystamp.com.migrations\hr.makemystamp.com.migrations.csproj", "{004AF1E6-4166-476E-B211-1BC820B37D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA9C787-A6C0-43D4-9739-B1FAB16D95F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA9C787-A6C0-43D4-9739-B1FAB16D95F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA9C787-A6C0-43D4-9739-B1FAB16D95F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA9C787-A6C0-43D4-9739-B1FAB16D95F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A7D1AB-7CEC-45EC-8909-8EE741822A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A7D1AB-7CEC-45EC-8909-8EE741822A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A7D1AB-7CEC-45EC-8909-8EE741822A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A7D1AB-7CEC-45EC-8909-8EE741822A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0564B29B-C398-4BC1-97B0-B797EC704D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0564B29B-C398-4BC1-97B0-B797EC704D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0564B29B-C398-4BC1-97B0-B797EC704D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0564B29B-C398-4BC1-97B0-B797EC704D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1278C224-2A50-4470-8323-6A50D3FDFB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278C224-2A50-4470-8323-6A50D3FDFB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278C224-2A50-4470-8323-6A50D3FDFB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278C224-2A50-4470-8323-6A50D3FDFB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004AF1E6-4166-476E-B211-1BC820B37D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004AF1E6-4166-476E-B211-1BC820B37D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004AF1E6-4166-476E-B211-1BC820B37D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004AF1E6-4166-476E-B211-1BC820B37D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E24B9E-FF7E-49D8-9476-D1421B0ADDCC}
+	EndGlobalSection
+EndGlobal
